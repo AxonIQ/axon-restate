@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@restatedev/restate-sdk": "^1.6.0",
-    "axios": "^1.9.0"
+    "axios": "^1.15.0"
   },
   "devDependencies": {
     "@types/node": "^20.14.2",
